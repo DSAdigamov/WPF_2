@@ -28,7 +28,7 @@ namespace WPF_2
 
         public int currPos;
         public int[] choosenAnsw;
-        public int time = 10;
+        public int time = 120;
 
         DispatcherTimer timer = new DispatcherTimer();
 
